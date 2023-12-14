@@ -29,10 +29,10 @@ export default function QuizPage() {
         {
             questionText: 'Mount Everest is located in which mountain range?',
             answerOptions: [
-                { answerText: 'Himalayas', isCorrect: true },
-                { answerText: 'Andes', isCorrect: false },
-                { answerText: 'Alps', isCorrect: false },
-                { answerText: 'Rockies', isCorrect: false },
+                { answerText: 'A. Himalayas', isCorrect: true },
+                { answerText: 'B. Andes', isCorrect: false },
+                { answerText: 'C. Alps', isCorrect: false },
+                { answerText: 'D. Rockies', isCorrect: false },
             ],
 
             
@@ -40,10 +40,10 @@ export default function QuizPage() {
         {
             questionText: 'Which country is also known as the Land of the Rising Sun?',
             answerOptions: [
-                { answerText: 'India', isCorrect: false },
-                { answerText: 'China', isCorrect: false },
-                { answerText: 'South Korea', isCorrect: false },
-                { answerText: 'Japan', isCorrect: true },
+                { answerText: 'A. India', isCorrect: false },
+                { answerText: 'B. China', isCorrect: false },
+                { answerText: 'C. South Korea', isCorrect: false },
+                { answerText: 'D. Japan', isCorrect: true },
             ],
 
             
@@ -51,10 +51,10 @@ export default function QuizPage() {
         {
             questionText: 'The Great Barrier Reef is off the coast of which country?',
             answerOptions: [
-                { answerText: 'South Africa', isCorrect: false },
-                { answerText: 'Indonesia', isCorrect: false },
-                { answerText: 'Brazil', isCorrect: false },
-                { answerText: 'Australia', isCorrect: true },
+                { answerText: 'A. South Africa', isCorrect: false },
+                { answerText: 'B. Indonesia', isCorrect: false },
+                { answerText: 'C. Brazil', isCorrect: false },
+                { answerText: 'D. Australia', isCorrect: true },
             ],
 
             

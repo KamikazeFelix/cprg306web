@@ -1,4 +1,7 @@
 export default function Question({ question, onAnswer }) {
+    const buttonStyle = {
+        margin: '10px 0', 
+    };
     return (
         <div className="border border-black w-96 m-4 p-4 bg-gradient-to-r from-blue-200 to-purple-200 container mx-auto mt-8 shadow-lg">
             <h2 className="text-xl font-bold mb-4">{question.questionText}</h2>
